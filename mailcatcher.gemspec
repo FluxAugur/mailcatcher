@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "activesupport", "> 4.1", "< 4.2"
   s.add_dependency "haml", "< 4.1"
-  s.add_dependency "mail", "< 2.4"
+  s.add_dependency "mail", "< 2.6"
   s.add_dependency "sinatra", "< 1.3"
   s.add_dependency "sqlite3", "< 1.4"
 
